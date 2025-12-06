@@ -1,0 +1,18 @@
+2025-12-06 21:07:04,322 - INFO - Bot started.
+2025-12-06 21:07:04,329 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.101:8080
+2025-12-06 21:07:04,329 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-06 21:09:37,429 - INFO - Bot started.
+2025-12-06 21:09:37,433 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.101:8080
+2025-12-06 21:09:37,433 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-06 21:12:03,539 - INFO - Bot started.
+2025-12-06 21:12:03,543 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.101:8080
+2025-12-06 21:12:03,543 - INFO - [33mPress CTRL+C to quit[0m
