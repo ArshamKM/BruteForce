@@ -16,3 +16,63 @@
  * Running on http://127.0.0.1:8080
  * Running on http://192.168.0.101:8080
 2025-12-06 21:12:03,543 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-08 19:50:11,075 - INFO - Bot started.
+2025-12-08 19:50:11,082 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.102:8080
+2025-12-08 19:50:11,082 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-08 19:52:58,514 - INFO - Bot started.
+2025-12-08 19:52:58,519 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.102:8080
+2025-12-08 19:52:58,519 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-08 19:53:01,480 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-08 19:53:01,480 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-08 19:53:10,448 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-08 19:53:10,448 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-08 19:53:18,328 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-08 19:53:18,328 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-08 19:53:54,983 - INFO - Bot started.
+2025-12-08 19:53:54,986 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.102:8080
+2025-12-08 19:53:54,986 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-08 19:54:38,125 - INFO - Bot started.
+2025-12-08 19:54:38,129 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.102:8080
+2025-12-08 19:54:38,129 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-08 19:58:33,471 - INFO - Bot started.
+2025-12-08 19:58:33,477 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.102:8080
+2025-12-08 19:58:33,477 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-08 19:58:50,692 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-08 19:58:50,692 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-08 19:58:55,455 - INFO - Bot started.
+2025-12-08 19:58:55,461 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.102:8080
+2025-12-08 19:58:55,461 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-08 19:59:12,145 - INFO - Bot started.
+2025-12-08 19:59:12,150 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.102:8080
+2025-12-08 19:59:12,150 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-08 20:00:00,060 - INFO - Bot started.
+2025-12-08 20:00:00,064 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.102:8080
+2025-12-08 20:00:00,064 - INFO - [33mPress CTRL+C to quit[0m

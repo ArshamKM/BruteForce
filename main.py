@@ -4,6 +4,7 @@ import random
 import logging
 import re
 from collections import defaultdict
+from os import getenv
 from threading import Thread
 import telebot
 import instaloader
@@ -38,8 +39,7 @@ API_TOKEN = os.getenv("API_TOKEN")
 FORCE_JOIN_CHANNEL = os.getenv("FORCE_JOIN_CHANNEL")
 ADMIN_ID = os.getenv("ADMIN_ID")
 
-bot = telebot.TeleBot(API_TOKEN)
-
+bot = telebot.TeleBot(getenv("Bot_Token"))
 # In-memory list to store user IDs
 user_ids = set()
 
